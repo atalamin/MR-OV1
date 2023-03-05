@@ -4,10 +4,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ovi1.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ovi1.0" height="30" width="40" /></a>
-<a href="https://fb.com/mahmud hasan ovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmud hasan ovi" height="30" width="40" /></a>
-<a href="https://instagram.com/ovivau23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovivau23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/inshot music 2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inshot music 2" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://fb.com/Md. Alamin Islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Alamin Islam" height="30" width="40" /></a>
+<a href="https://instagram.com/skb.team.2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skb.team.2022" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Learning Termux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learning Termux" height="30" width="40" /></a>
 </p>
 
 ### &nbsp;Tech Stack
@@ -30,14 +30,14 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ### &nbsp; Github Statistics </i></b></h3>
-<a href="https://github.com/MR-OV1"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MR-OV1&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/atalamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=atalamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <br/>
-<a href="https://github.com/MR-OV1/github-readme-stats"><img alt="MR-OV1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MR-OV1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/atalamin/github-readme-stats"><img alt="MR-OV1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atalamin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         <a href="https://github.com/PSYCHO-PICCHI/github-readme-stats"><img alt="PSYCHO-PICCHI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYCHO-PICCHI&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
           <br/>
 
 GitHub Contribution Graph
 </p>
 <p align="center"> 
-<a href="https://github.com/MR-OV1/Random"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-OV1&repo=Random&theme=vision-friendly-dark"></a>
+<a href="https://github.com/atalamin/Random"><img title="Random" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-OV1&repo=Random&theme=vision-friendly-dark"></a>
